@@ -207,6 +207,10 @@ html {
   fill: var(--color-blue);
 }
 
+body {
+  overflow-x: hidden;
+}
+
 .content-wrapper {
   display: -webkit-box;
   display: -ms-flexbox;
